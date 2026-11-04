@@ -1,0 +1,26 @@
+{
+  "title": "Uplifting Trance Leads",
+  "study": "ut01",
+  "bpm": 140,
+  "source_audio": "preview/uplifting-trance-leads-simple-synth-preview.mp3",
+  "source_audio_sha256": "2e0b51c59838b90e371a455c53a51a24416a890b62de18a57f047847a9ba4c38",
+  "source_midi": "midi/ut01-high-current/ut01-high-current-combined.mid",
+  "source_midi_sha256": "6e0694425b66197dea508956d10b87ed607808794ec767902f5d95be10287788",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "a1976b358cdd21a894f63066dc9c357ae17bbb9bf7b01e5be1e4a15f1871c4df",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "b7da84875b142a1e18847e0b88760aef9e26adde23e3e7596a116fc7c1406b04",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "23eacf689f165fb54852f1d7cddfb80be5f126d7e086e434ad87baaa4a2ac2fa",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
