@@ -1,0 +1,3 @@
+DRAFT: Uplifting Trance Leads Studies is a four-study original MIDI release at 140 BPM. Simple-synthesis preview, not a master. #MIDI #Composition
+
+Count: 146 characters using Python len

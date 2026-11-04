@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+ut01,High Current,pack-local equal-tempered pitch collection,D,140,4/4,480,32,61440,midi/ut01-high-current/ut01-high-current-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ut02,Open Horizon,pack-local equal-tempered pitch collection,F,140,4/4,480,32,61440,midi/ut02-open-horizon/ut02-open-horizon-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ut03,First Dawn,pack-local equal-tempered pitch collection,G#,140,4/4,480,32,61440,midi/ut03-first-dawn/ut03-first-dawn-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ut04,Bright Arrival,pack-local equal-tempered pitch collection,D#,140,4/4,480,32,61440,midi/ut04-bright-arrival/ut04-bright-arrival-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

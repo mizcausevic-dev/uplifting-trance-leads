@@ -1,0 +1,15 @@
+{
+  "source_audio": "preview/uplifting-trance-leads-simple-synth-preview.mp3",
+  "source_audio_sha256": "2e0b51c59838b90e371a455c53a51a24416a890b62de18a57f047847a9ba4c38",
+  "excerpt_start_seconds": 0,
+  "excerpt_duration_seconds": 18,
+  "video": "film/preview.mp4",
+  "video_sha256": "547a7e0dbab5efeeeffc98f0d8ba4d8b1bc74c9b3fd4fb29929972a37bf3bd16",
+  "duration_seconds": 18.0,
+  "video_codec": "H.264",
+  "audio_codec": "AAC",
+  "caption": "film/preview.vtt",
+  "poster": "film/poster.jpg",
+  "disclosure": "preview, not master",
+  "note": "A static illustrated poster and audio excerpt; no recording-session claim."
+}

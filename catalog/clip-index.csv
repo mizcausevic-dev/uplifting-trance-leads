@@ -1,0 +1,17 @@
+path,study,kind,bars,tempo_bpm,notes,sha256
+clips/ut01-melody-01.mid,ut01,melody,4,140,28,79805205fd84addb341742b518079af4cf2775ea19ab220e7aa9915e88e19eac
+clips/ut01-melody-02.mid,ut01,melody,4,140,28,1ae455565445fba18fd76c3a0ba3e11f65d521bd131abffae703136eb0e511e9
+clips/ut01-melody-03.mid,ut01,melody,4,140,16,6b97f81e5a98c11008080357ac93c27629d1da6b3774511dea7ab73809fa6153
+clips/ut01-melody-04.mid,ut01,melody,4,140,16,fe78f1a037cbb4afdc8bcaf165ff842a5b964fd61e17fb9ab91521811645daad
+clips/ut02-melody-01.mid,ut02,melody,4,140,28,031e6a995b4e85b615274b84f24d63fca03cf1adf8b9f06978f54b1735e1b341
+clips/ut02-melody-02.mid,ut02,melody,4,140,28,84dde78cb68382e60fbedb09c739ce7e4959d1763e78711b4b68abbb4cef766d
+clips/ut02-melody-03.mid,ut02,melody,4,140,16,acdcc15707aa6e55f0d7a9f1f1ea889c394cb0b1fedeccc4563ee10db474f457
+clips/ut02-melody-04.mid,ut02,melody,4,140,16,6c7455407a54cb465e6ce6321e6c7f6ad0e9d77b9fd8601ae7d32e919f7d696b
+clips/ut03-melody-01.mid,ut03,melody,4,140,28,fbf636d3e23a88a5658fb8eb7e8528a2595dd7c62423c300f1b2faea20a07fde
+clips/ut03-melody-02.mid,ut03,melody,4,140,28,1c41c1d2735e07ce086b2cb6ae4dfc22b7501080738f54777e7032357c80c1d4
+clips/ut03-melody-03.mid,ut03,melody,4,140,12,d9720d5f276bed4c5a8f9f5a51989d666fce4eea258db1086dca9e744ea3d2fb
+clips/ut03-melody-04.mid,ut03,melody,4,140,12,97d09eb7bc1b97b58da18206758491f5dfa169d9241421ca83f132ada8c1c6e8
+clips/ut04-melody-01.mid,ut04,melody,4,140,28,95c692b2d365c3c330b1c1a4e230b7eb5d36d97959a654357a28ce317ae7d03f
+clips/ut04-melody-02.mid,ut04,melody,4,140,28,d671b556e7131be2c1844de6a5e34ae89a733183c7f85c90fe718c0716041e66
+clips/ut04-melody-03.mid,ut04,melody,4,140,12,867efff1c6090be51f55bc0c35e4ca48618d35124b7eaa444b8da96812553216
+clips/ut04-melody-04.mid,ut04,melody,4,140,12,29bc8992c2026f8ba8fc93260a957ab3f366ecb9a029f52c0bd1fdd52f6f61e7

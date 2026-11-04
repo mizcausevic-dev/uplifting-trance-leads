@@ -1,0 +1,129 @@
+study_id,bar,start_tick,tonic,collection,chord_pitches,intent
+ut01,1,0,D,pack-local equal-tempered pitch collection,50 54 57,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut01,2,1920,D,pack-local equal-tempered pitch collection,50 54 57,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut01,3,3840,D,pack-local equal-tempered pitch collection,50 54 57,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut01,4,5760,D,pack-local equal-tempered pitch collection,50 54 57,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut01,5,7680,D,pack-local equal-tempered pitch collection,55 59 62,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut01,6,9600,D,pack-local equal-tempered pitch collection,55 59 62,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut01,7,11520,D,pack-local equal-tempered pitch collection,55 59 62,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut01,8,13440,D,pack-local equal-tempered pitch collection,55 59 62,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut01,9,15360,D,pack-local equal-tempered pitch collection,54 58 61,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut01,10,17280,D,pack-local equal-tempered pitch collection,54 58 61,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut01,11,19200,D,pack-local equal-tempered pitch collection,54 58 61,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut01,12,21120,D,pack-local equal-tempered pitch collection,54 58 61,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut01,13,23040,D,pack-local equal-tempered pitch collection,52 56 59,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut01,14,24960,D,pack-local equal-tempered pitch collection,52 56 59,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut01,15,26880,D,pack-local equal-tempered pitch collection,52 56 59,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut01,16,28800,D,pack-local equal-tempered pitch collection,52 56 59,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut01,17,30720,D,pack-local equal-tempered pitch collection,50 54 57,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut01,18,32640,D,pack-local equal-tempered pitch collection,50 54 57,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut01,19,34560,D,pack-local equal-tempered pitch collection,50 54 57,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut01,20,36480,D,pack-local equal-tempered pitch collection,50 54 57,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut01,21,38400,D,pack-local equal-tempered pitch collection,55 59 62,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut01,22,40320,D,pack-local equal-tempered pitch collection,55 59 62,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut01,23,42240,D,pack-local equal-tempered pitch collection,55 59 62,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut01,24,44160,D,pack-local equal-tempered pitch collection,55 59 62,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut01,25,46080,D,pack-local equal-tempered pitch collection,54 58 61,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut01,26,48000,D,pack-local equal-tempered pitch collection,54 58 61,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut01,27,49920,D,pack-local equal-tempered pitch collection,54 58 61,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut01,28,51840,D,pack-local equal-tempered pitch collection,54 58 61,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut01,29,53760,D,pack-local equal-tempered pitch collection,52 56 59,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut01,30,55680,D,pack-local equal-tempered pitch collection,52 56 59,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut01,31,57600,D,pack-local equal-tempered pitch collection,52 56 59,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut01,32,59520,D,pack-local equal-tempered pitch collection,52 56 59,Original lead figures and open harmonic movement. Initial cell establishes the material.
+ut02,1,0,F,pack-local equal-tempered pitch collection,58 62 65,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut02,2,1920,F,pack-local equal-tempered pitch collection,58 62 65,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut02,3,3840,F,pack-local equal-tempered pitch collection,58 62 65,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut02,4,5760,F,pack-local equal-tempered pitch collection,58 62 65,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut02,5,7680,F,pack-local equal-tempered pitch collection,57 61 64,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut02,6,9600,F,pack-local equal-tempered pitch collection,57 61 64,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut02,7,11520,F,pack-local equal-tempered pitch collection,57 61 64,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut02,8,13440,F,pack-local equal-tempered pitch collection,57 61 64,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut02,9,15360,F,pack-local equal-tempered pitch collection,55 59 62,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut02,10,17280,F,pack-local equal-tempered pitch collection,55 59 62,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut02,11,19200,F,pack-local equal-tempered pitch collection,55 59 62,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut02,12,21120,F,pack-local equal-tempered pitch collection,55 59 62,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut02,13,23040,F,pack-local equal-tempered pitch collection,53 57 60,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut02,14,24960,F,pack-local equal-tempered pitch collection,53 57 60,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut02,15,26880,F,pack-local equal-tempered pitch collection,53 57 60,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut02,16,28800,F,pack-local equal-tempered pitch collection,53 57 60,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut02,17,30720,F,pack-local equal-tempered pitch collection,58 62 65,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut02,18,32640,F,pack-local equal-tempered pitch collection,58 62 65,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut02,19,34560,F,pack-local equal-tempered pitch collection,58 62 65,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut02,20,36480,F,pack-local equal-tempered pitch collection,58 62 65,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut02,21,38400,F,pack-local equal-tempered pitch collection,57 61 64,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut02,22,40320,F,pack-local equal-tempered pitch collection,57 61 64,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut02,23,42240,F,pack-local equal-tempered pitch collection,57 61 64,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut02,24,44160,F,pack-local equal-tempered pitch collection,57 61 64,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut02,25,46080,F,pack-local equal-tempered pitch collection,55 59 62,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut02,26,48000,F,pack-local equal-tempered pitch collection,55 59 62,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut02,27,49920,F,pack-local equal-tempered pitch collection,55 59 62,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut02,28,51840,F,pack-local equal-tempered pitch collection,55 59 62,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut02,29,53760,F,pack-local equal-tempered pitch collection,53 57 60,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut02,30,55680,F,pack-local equal-tempered pitch collection,53 57 60,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut02,31,57600,F,pack-local equal-tempered pitch collection,53 57 60,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut02,32,59520,F,pack-local equal-tempered pitch collection,53 57 60,Original lead figures and open harmonic movement. Statement introduces a different contour.
+ut03,1,0,G#,pack-local equal-tempered pitch collection,60 64 67,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut03,2,1920,G#,pack-local equal-tempered pitch collection,60 64 67,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut03,3,3840,G#,pack-local equal-tempered pitch collection,60 64 67,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut03,4,5760,G#,pack-local equal-tempered pitch collection,60 64 67,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut03,5,7680,G#,pack-local equal-tempered pitch collection,58 62 65,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut03,6,9600,G#,pack-local equal-tempered pitch collection,58 62 65,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut03,7,11520,G#,pack-local equal-tempered pitch collection,58 62 65,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut03,8,13440,G#,pack-local equal-tempered pitch collection,58 62 65,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut03,9,15360,G#,pack-local equal-tempered pitch collection,56 60 63,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut03,10,17280,G#,pack-local equal-tempered pitch collection,56 60 63,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut03,11,19200,G#,pack-local equal-tempered pitch collection,56 60 63,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut03,12,21120,G#,pack-local equal-tempered pitch collection,56 60 63,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut03,13,23040,G#,pack-local equal-tempered pitch collection,61 65 68,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut03,14,24960,G#,pack-local equal-tempered pitch collection,61 65 68,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut03,15,26880,G#,pack-local equal-tempered pitch collection,61 65 68,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut03,16,28800,G#,pack-local equal-tempered pitch collection,61 65 68,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut03,17,30720,G#,pack-local equal-tempered pitch collection,60 64 67,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut03,18,32640,G#,pack-local equal-tempered pitch collection,60 64 67,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut03,19,34560,G#,pack-local equal-tempered pitch collection,60 64 67,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut03,20,36480,G#,pack-local equal-tempered pitch collection,60 64 67,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut03,21,38400,G#,pack-local equal-tempered pitch collection,58 62 65,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut03,22,40320,G#,pack-local equal-tempered pitch collection,58 62 65,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut03,23,42240,G#,pack-local equal-tempered pitch collection,58 62 65,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut03,24,44160,G#,pack-local equal-tempered pitch collection,58 62 65,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut03,25,46080,G#,pack-local equal-tempered pitch collection,56 60 63,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut03,26,48000,G#,pack-local equal-tempered pitch collection,56 60 63,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut03,27,49920,G#,pack-local equal-tempered pitch collection,56 60 63,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut03,28,51840,G#,pack-local equal-tempered pitch collection,56 60 63,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut03,29,53760,G#,pack-local equal-tempered pitch collection,61 65 68,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut03,30,55680,G#,pack-local equal-tempered pitch collection,61 65 68,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut03,31,57600,G#,pack-local equal-tempered pitch collection,61 65 68,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut03,32,59520,G#,pack-local equal-tempered pitch collection,61 65 68,Original lead figures and open harmonic movement. Contrast moves the accent map.
+ut04,1,0,D#,pack-local equal-tempered pitch collection,53 57 60,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
+ut04,2,1920,D#,pack-local equal-tempered pitch collection,53 57 60,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
+ut04,3,3840,D#,pack-local equal-tempered pitch collection,53 57 60,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
+ut04,4,5760,D#,pack-local equal-tempered pitch collection,53 57 60,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
+ut04,5,7680,D#,pack-local equal-tempered pitch collection,51 55 58,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
+ut04,6,9600,D#,pack-local equal-tempered pitch collection,51 55 58,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
+ut04,7,11520,D#,pack-local equal-tempered pitch collection,51 55 58,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
+ut04,8,13440,D#,pack-local equal-tempered pitch collection,51 55 58,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
+ut04,9,15360,D#,pack-local equal-tempered pitch collection,56 60 63,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
+ut04,10,17280,D#,pack-local equal-tempered pitch collection,56 60 63,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
+ut04,11,19200,D#,pack-local equal-tempered pitch collection,56 60 63,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
+ut04,12,21120,D#,pack-local equal-tempered pitch collection,56 60 63,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
+ut04,13,23040,D#,pack-local equal-tempered pitch collection,55 59 62,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
+ut04,14,24960,D#,pack-local equal-tempered pitch collection,55 59 62,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
+ut04,15,26880,D#,pack-local equal-tempered pitch collection,55 59 62,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
+ut04,16,28800,D#,pack-local equal-tempered pitch collection,55 59 62,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
+ut04,17,30720,D#,pack-local equal-tempered pitch collection,53 57 60,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
+ut04,18,32640,D#,pack-local equal-tempered pitch collection,53 57 60,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
+ut04,19,34560,D#,pack-local equal-tempered pitch collection,53 57 60,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
+ut04,20,36480,D#,pack-local equal-tempered pitch collection,53 57 60,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
+ut04,21,38400,D#,pack-local equal-tempered pitch collection,51 55 58,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
+ut04,22,40320,D#,pack-local equal-tempered pitch collection,51 55 58,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
+ut04,23,42240,D#,pack-local equal-tempered pitch collection,51 55 58,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
+ut04,24,44160,D#,pack-local equal-tempered pitch collection,51 55 58,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
+ut04,25,46080,D#,pack-local equal-tempered pitch collection,56 60 63,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
+ut04,26,48000,D#,pack-local equal-tempered pitch collection,56 60 63,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
+ut04,27,49920,D#,pack-local equal-tempered pitch collection,56 60 63,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
+ut04,28,51840,D#,pack-local equal-tempered pitch collection,56 60 63,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
+ut04,29,53760,D#,pack-local equal-tempered pitch collection,55 59 62,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
+ut04,30,55680,D#,pack-local equal-tempered pitch collection,55 59 62,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
+ut04,31,57600,D#,pack-local equal-tempered pitch collection,55 59 62,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
+ut04,32,59520,D#,pack-local equal-tempered pitch collection,55 59 62,Original lead figures and open harmonic movement. Return keeps the identity while changing one placement.
