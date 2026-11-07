@@ -7,16 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 792,
-      "sha256": "d046fa57330b14df65235aff751223701a888e00db203efa20a398c3cb3bc5f3"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3897,
-      "sha256": "9e03ec427adffd5a24978b99bb88fbce06108e0942fbf29ecc27ed44c0478e06"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -203,8 +193,8 @@
     },
     {
       "path": "downloads/uplifting-trance-leads-midi.zip",
-      "bytes": 31906,
-      "sha256": "207f029c344fc80fd412399ed4b754019bcb52bafea079d8093424a44e551768"
+      "bytes": 34200,
+      "sha256": "8ded1d6720e668ad46122bf835fef50e7ebca24307d037eb6398960fa5640a56"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -225,11 +215,6 @@
       "path": "film/motion-overlay.png",
       "bytes": 33031,
       "sha256": "d7edc885ab64f270ab787f9dd21d7a76a02041805dc87a1445c9eb1cb5865531"
-    },
-    {
-      "path": "film/motion-preview.mp4",
-      "bytes": 1122704,
-      "sha256": "23eacf689f165fb54852f1d7cddfb80be5f126d7e086e434ad87baaa4a2ac2fa"
     },
     {
       "path": "film/motion-preview.vtt",
@@ -258,8 +243,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9522,
-      "sha256": "3318e004f33ce9cc52cc2380e30440f3aa74c7d0762bffcdd7db77aa67c51aa2"
+      "bytes": 9712,
+      "sha256": "6e5febdce6ec90d75933d85e1bd44b583f57aabed62db456b5b0dbaa7ce0c671"
     },
     {
       "path": "midi/ut01-high-current/chord_pulse.mid",
@@ -402,6 +387,16 @@
       "sha256": "cec27a8e728ad75e6201813272d69a7ff3eab6108fb746503b5972dcfa353030"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 792,
+      "sha256": "d046fa57330b14df65235aff751223701a888e00db203efa20a398c3cb3bc5f3"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1137,
       "sha256": "bff4140230f58562f39bd8f74bd0a3e6b27dfdf78904db90d40d51e1848db2dc"
@@ -410,6 +405,11 @@
       "path": "preview/uplifting-trance-leads-simple-synth-preview.mp3",
       "bytes": 1330408,
       "sha256": "2e0b51c59838b90e371a455c53a51a24416a890b62de18a57f047847a9ba4c38"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4012,
+      "sha256": "5177f4bc472d756e81d3fd10928e8a929925b9138f30577310f9be2e792fe2fa"
     },
     {
       "path": "social/instagram/caption.txt",
